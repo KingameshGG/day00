@@ -1,5 +1,0 @@
-Credentials cache: API:A19FA28E-4D59-4EFD-846D-2710CD515AA1
-        Principal: jcousin@42.FR
-
-  Issued                Expires               Principal
-Aug 27 18:56:02 2018  Sep  3 18:55:50 2018  krbtgt/42.FR@42.FR
